@@ -57,8 +57,8 @@ fetch(Api)
     Contact.textContent = `Contact No: ${element.phone} `;
   
     cardbody.appendChild(Type);
-    cardbody.appendChild(city); 
     cardbody.appendChild(street);
+    cardbody.appendChild(city); 
     cardbody.appendChild(state);
     cardbody.appendChild(country);
     cardbody.appendChild(Zipcode);
