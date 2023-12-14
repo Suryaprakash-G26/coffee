@@ -14,8 +14,11 @@ The Coffee Shop Details project is a simple web application that allows users to
 
 ### deployed Link 
 [Click to open](https://candid-piroshki-f4a746.netlify.app/)
-## Contact
 
+## Screenshots
+![image](https://github.com/Suryaprakash-G26/coffee/assets/141228691/394887f1-5154-4a85-8420-ebe117d6c520)
+
+## Contact
 Feel free to reach out if you have any questions or suggestions:
 
 - [GitHub](https://github.com/Suryaprakash-G26)
